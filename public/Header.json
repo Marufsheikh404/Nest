@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "text": "Deals",
+    "icon1": "IoHeadsetOutline",
+    "icon2": "fa-solid fa-check"
+  },
+  {
+    "id": 2,
+    "text": "Home"
+  },
+  {
+    "id": 3,
+    "text": "About"
+  },
+  {
+    "id": 4,
+    "text": "Shop"
+  },
+  {
+    "id": 5,
+    "text": "Vendor"
+  },
+  {
+    "id": 6,
+    "text": "Mega Menu"
+  },
+  {
+    "id": 7,
+    "text": "Blogs"
+  },
+  {
+    "id": 8,
+    "text": "Pages"
+  },
+  {
+    "id": 9,
+    "text": "Contact"
+  }
+]
