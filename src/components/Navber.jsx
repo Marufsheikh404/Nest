@@ -17,7 +17,7 @@ const Navber = () => {
         <div>
             <Header></Header>
             <UnderHeader data={data}></UnderHeader>
-            <LittleNav></LittleNav>
+            <LittleNav items={data}></LittleNav>
         </div>
     );
 };
