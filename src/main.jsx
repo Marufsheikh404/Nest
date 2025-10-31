@@ -5,6 +5,6 @@ import Main from './Main/Main.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Main/>
+      <Main/>
   </StrictMode>,
 )
