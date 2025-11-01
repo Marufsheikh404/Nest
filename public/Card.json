@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://i.ibb.co.com/zVbWSfcf/imgi-53-loading.png",
+    "title": "Fresh Organic Salad",
+    "description": "A healthy mix of organic vegetables including lettuce, tomatoes, and cucumbers.",
+    "text": "Read More"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://i.ibb.co.com/Xxxj4Y4w/imgi-17-category-10.png",
+    "title": "Italian Pasta",
+    "description": "Delicious spaghetti tossed with homemade tomato sauce and basil.",
+    "text": "Read More"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://i.ibb.co.com/fd7FYcf9/imgi-15-category-8.png",
+    "title": "Juicy Burger",
+    "description": "Grilled beef patty topped with cheese, lettuce, and a special house sauce.",
+    "text": "Read More"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://i.ibb.co.com/4nmzprGW/imgi-14-category-7.png",
+    "title": "Chocolate Dessert",
+    "description": "Soft chocolate cake served with a scoop of vanilla ice cream.",
+    "text": "Read More"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://i.ibb.co.com/Q3kBmC3W/imgi-12-category-5.png",
+    "title": "Chocolate Dessert",
+    "description": "Soft chocolate cake served with a scoop of vanilla ice cream.",
+    "text": "Read More"
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://i.ibb.co.com/4nmzprGW/imgi-14-category-7.png",
+    "title": "Chocolate Dessert",
+    "description": "Soft chocolate cake served with a scoop of vanilla ice cream.",
+    "text": "Read More"
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://i.ibb.co.com/6RPtFxW6/imgi-9-category-2.png",
+    "title": "Chocolate Dessert",
+    "description": "Soft chocolate cake served with a scoop of vanilla ice cream.",
+    "text": "Read More"
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://i.ibb.co.com/v6dnkr12/imgi-10-category-3.png",
+    "title": "Chocolate Dessert",
+    "description": "Soft chocolate cake served with a scoop of vanilla ice cream.",
+    "text": "Read More"
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://i.ibb.co.com/v6dnkr12/imgi-10-category-3.png",
+    "title": "Chocolate Dessert",
+    "description": "Soft chocolate cake served with a scoop of vanilla ice cream.",
+    "text": "Read More"
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://i.ibb.co.com/v6dnkr12/imgi-10-category-3.png",
+    "title": "Chocolate Dessert",
+    "description": "Soft chocolate cake served with a scoop of vanilla ice cream.",
+    "text": "Read More"
+  }
+]
