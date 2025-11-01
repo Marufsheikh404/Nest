@@ -1,12 +1,11 @@
 
-import picture from '../../assets/gril.png';
 
 const Welcome = ({image}) => {
 
     return (
         <div className='flex gap-6 flex-col md:flex-row items-start p-6'>
             {/* Left side image */}
-            <img className='w-96 rounded-2xl shadow-md' src={picture} alt="cooking" />
+            <img className='w-96 rounded-2xl shadow-md' src="/assets/gril.png" alt="cooking" />
 
             {/* Right side content */}
             <div className='flex-1'>

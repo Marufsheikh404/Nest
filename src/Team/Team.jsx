@@ -1,6 +1,4 @@
 import React from 'react';
-import image1 from '../assets/imgi_38_about-6.png'
-import image2 from '../assets/imgi_43_about-8.png'
 import SectionTitle from '../components/SectionTitle/SectionTitle';
 import { FaFacebook, FaInstagram, FaTwitch } from 'react-icons/fa';
 
@@ -23,7 +21,7 @@ const Team = () => {
                     <div>
                         <div className="relative">
                             {/* Image */}
-                            <img className="rounded-lg w-full" src={image1} alt="" />
+                            <img className="rounded-lg w-full" src="/assets/imgi_38_about-6.png" alt="" />
 
                             {/* Card overlay at bottom */}
                             <div className="bg-white absolute -bottom-12 left-1/2 -translate-x-1/2 w-64 p-6      rounded-xl shadow-md border border-gray-200 flex flex-col items-center   text-center
@@ -44,7 +42,7 @@ const Team = () => {
                     <div>
                         <div className="relative">
                             {/* Image */}
-                            <img className="rounded-lg w-full" src={image2} alt="" />
+                            <img className="rounded-lg w-full" src="/assets/imgi_43_about-8.png" alt="" />
 
                             {/* Card overlay at bottom */}
                             <div className="bg-white absolute -bottom-12 left-1/2 -translate-x-1/2 w-64 p-6      rounded-xl shadow-md border border-gray-200 flex flex-col items-center   text-center

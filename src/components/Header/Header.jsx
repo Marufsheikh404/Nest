@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../assets/imgi_1_logo.png'
+
 import { FaRegHeart, FaSearch } from 'react-icons/fa';
 import { AiOutlineLoading3Quarters } from 'react-icons/ai';
 import { CgProfile } from 'react-icons/cg';
@@ -9,7 +9,7 @@ const Header = () => {
         <div>
             <div className="flex items-center navbar bg-base-100 shadow-sm gap-[100px]">
                 <div className="flex-1">
-                    <img className='w-30' src={logo} alt="logo" />
+                   <img src="/assets/imgi_1_logo.png" alt="" />
                 </div>
                 <div className='relative'>
                     <FaSearch className='absolute right-3 top-3'></FaSearch>

@@ -6,6 +6,7 @@ import Card from '../Pages/CardSection/Card';
 import Performance from '../components/Performanec/Performance';
 import Description from '../components/Description/Description';
 import Team from '../Team/Team';
+import Footer from '../Pages/Footer/Footer';
 
 const Main = () => {
     const [image, setImage] = useState([]);
@@ -41,6 +42,7 @@ const Main = () => {
             <div className='my-8 container px-8'>
                 <Team></Team>
             </div>
+            <Footer></Footer>
         </div>
     );
 };

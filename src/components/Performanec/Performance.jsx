@@ -1,11 +1,9 @@
-import React from 'react';
-import image from '../../assets/imgi_37_about-5.png'
 
 const Performance = () => {
     return (
         <div className='flex flex-col lg:flex-row gap-8'>
             <div>
-                <img src={image} alt="Good Looking girls" />
+                <img src="/assets/imgi_37_about-5.png" alt="Good Looking girls" />
             </div>
 
             <div>
