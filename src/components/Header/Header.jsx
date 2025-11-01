@@ -24,8 +24,8 @@ const Header = () => {
                 </div>
 
                 {/* Icons Section */}
-                <div className="flex flex-wrap justify-center md:justify-end items-center gap-5">
-                    <div className="flex gap-5 sm:gap-8">
+                <div className="flex flex-wrap justify-center md:justify-end items-center gap-8">
+                    <div className="flex gap-6 sm:gap-8">
                         {/* Cart */}
                         <div tabIndex={0} role="button" className="btn btn-ghost btn-circle relative">
                             <div className="indicator">
@@ -43,7 +43,7 @@ const Header = () => {
                         </div>
 
                         {/* Wishlist */}
-                        <div tabIndex={0} role="button" className="btn btn-ghost btn-circle relative">
+                        <div tabIndex={0} role="button" className="btn btn-ghost btn-circle relative ">
                             <div className="indicator">
                                 <FaRegHeart size={18} />
                                 <span className="badge badge-sm indicator-item bg-[#3BB77E]">5</span>

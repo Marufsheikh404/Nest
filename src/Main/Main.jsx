@@ -8,6 +8,8 @@ import Description from '../components/Description/Description';
 import Team from '../Team/Team';
 import Footer from '../Pages/Footer/Footer';
 import LittleCard from '../Pages/LittleCard/LittleCard';
+import Success from '../Pages/Success/Success';
+import Search from '../Pages/Search/Search';
 
 const Main = () => {
     const [image, setImage] = useState([]);
@@ -41,7 +43,13 @@ const Main = () => {
                 <Description></Description>
             </div>
             <div className='my-10 container px-8'>
+                <Success></Success>
+            </div>
+            <div className='my-10 container px-8'>
                 <Team></Team>
+            </div>
+            <div className='my-10 container px-8'>
+                <Search></Search>
             </div>
             <div className='my-10 container px-8'>
                 <LittleCard cardDatas ={cardDatas}></LittleCard>
