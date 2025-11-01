@@ -7,6 +7,7 @@ import Performance from '../components/Performanec/Performance';
 import Description from '../components/Description/Description';
 import Team from '../Team/Team';
 import Footer from '../Pages/Footer/Footer';
+import LittleCard from '../Pages/LittleCard/LittleCard';
 
 const Main = () => {
     const [image, setImage] = useState([]);
@@ -27,20 +28,23 @@ const Main = () => {
     return (
         <div className='container px-5 mx-auto overflow-x-hidden'>
             <Navber></Navber>
-            <div className='my-8 container px-8'>
+            <div className='my-10 container px-8'>
                 <Welcome image={image}></Welcome>
             </div>
-            <div className='my-8 container px-8'>
+            <div className='my-10 container px-8'>
                 <Card cards={cardDatas}></Card>
             </div>
-            <div className='my-8 container px-8'>
+            <div className='my-10 container px-8'>
                 <Performance></Performance>
             </div>
-            <div className='my-8 container px-8'>
+            <div className='my-10 container px-8'>
                 <Description></Description>
             </div>
-            <div className='my-8 container px-8'>
+            <div className='my-10 container px-8'>
                 <Team></Team>
+            </div>
+            <div className='my-10 container px-8'>
+                <LittleCard cardDatas ={cardDatas}></LittleCard>
             </div>
             <Footer></Footer>
         </div>
