@@ -25,7 +25,7 @@ const Main = () => {
     }, [])
 
     return (
-        <div className='container px-5 mx-auto'>
+        <div className='container px-5 mx-auto overflow-x-hidden'>
             <Navber></Navber>
             <div className='my-8 container px-8'>
                 <Welcome image={image}></Welcome>

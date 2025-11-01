@@ -31,7 +31,7 @@ const Card = ({ cards }) => {
                                 <img
                                     src={card.imageUrl}
                                     alt={card.title}
-                                    className="w-full h-48 object-cover rounded-t-lg"
+                                    className="object-cover rounded-t-lg"
                                 />
                             </figure>
 

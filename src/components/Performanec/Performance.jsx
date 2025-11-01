@@ -8,7 +8,7 @@ const Performance = () => {
                 <img
                     src="/assets/imgi_37_about-5.png"
                     alt="Good Looking girls"
-                    className="w-full max-w-md lg:max-w-lg rounded-2xl object-cover shadow-md"
+                    className="w-full lg:max-w-lg rounded-2xl object-cover shadow-md"
                 />
             </div>
 
@@ -17,7 +17,7 @@ const Performance = () => {
                 <h2 className="text-[#B6B6B6] text-2xl md:text-3xl font-semibold">
                     Our Performance
                 </h2>
-                <h1 className="text-[#253D4E] text-3xl md:text-5xl lg:text-6xl font-semibold mt-3 leading-tight">
+                <h1 className="text-[#253D4E] text-xl md:text-3xl lg:text-4xl font-semibold mt-3 leading-tight">
                     Your Partner for e-commerce grocery solution
                 </h1>
 
