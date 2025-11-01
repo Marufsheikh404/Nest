@@ -27,14 +27,14 @@ const Header = () => {
                         <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
                             <div className="indicator">
                                 <FaRegHeart size={20} />
-                                <span className="badge badge-sm indicator-item bg-[#3BB77E]">8</span>
+                                <span className="badge badge-sm indicator-item bg-[#3BB77E]">5</span>
                             </div>
                             <h1 className='text-gray-500'>wishlist</h1>
                         </div>
                         <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
                             <div className="indicator">
                                 <AiOutlineLoading3Quarters size={20} />
-                                <span className="badge badge-sm indicator-item bg-[#3BB77E]">8</span>
+                                <span className="badge badge-sm indicator-item bg-[#3BB77E]">2</span>
                             </div>
                             <h1 className='text-gray-500'>compare</h1>
                         </div>
